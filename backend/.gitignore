@@ -1,15 +1,5 @@
 node_modules
-node_modules/
-**/node_modules
+uploads/*
+!uploads/.gitkeep 
 
-**node_modules
-
-*/node_modules/*
-# dependencies
-/node_modules
-
-# testing
-/coverage
-
-# production
-/build
+*.sqlite
