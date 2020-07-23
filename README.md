@@ -19,7 +19,7 @@
 Aplicação para cadastro, e listagem de pontos de coleta de resíduos, com o objetivo de incentivar a reciclagem
 </h3>
 
-<p align="center"> Aplicação criada durante a Next Level Week</p>
+<p align="center"> <i><b>Aplicação criada durante a Next Level Week</i></b></p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
