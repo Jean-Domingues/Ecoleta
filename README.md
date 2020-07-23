@@ -30,13 +30,13 @@ Aplicação para cadastro, e listagem de pontos de coleta de resíduos, com o ob
 
 <h2 align="center">Web</h2>
 <p align="center"> 
- <img width="600" src="#" align="center"/>
+ <img width="600" src="gitHub/desktop.png" align="center"/>
 </p>
 
 
 <h2 align="center">App</h2>
 <p align="center"> 
- <img width="600" src="#" align="center"/>
+ <img width="600" src="gitHub/mobile.png" align="center"/>
 </p>
 
 <br/>
